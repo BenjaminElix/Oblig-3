@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 9 auto;
+    font-size: 18px;
+    font-weight: 600;
+    color: #262B54;
+}
+
+#logo{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+    color: #262B54;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+
